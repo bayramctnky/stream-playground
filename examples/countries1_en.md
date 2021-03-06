@@ -56,6 +56,6 @@ Write a stream pipeline that:
 
 1. Returns the length of the longest country name.
 
-1. 1. Prints the capital of each country in ascending order of length.
+1. Prints the capital of each country in ascending order of length.
 
 1. Prints the capital of each country in ascending order of length and then in alphabetical order.
